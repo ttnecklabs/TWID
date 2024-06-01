@@ -8,10 +8,16 @@
 <summary>240601</summary>
   <ul>
   <li>
-    TWID repository 생성
+    (개인프로젝트)TWID repository 생성
+    <li>
+      * 목적 : 매일 기록용
+    </li>
   </li>
   <li>
-    현대모비스 임팩트 아이디어 챌린지 회의
+    (개인프로젝트)현대모비스 임팩트 아이디어 챌린지 회의
+    <li>
+      * 목적 : 매일 기록용
+    </li>
   </li>
   </ul>
 </details>
