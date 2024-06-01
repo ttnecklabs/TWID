@@ -7,6 +7,6 @@
 
 <details>
 <summary>240601</summary>
-1. TWID(Today I Did) repository 생성<br>
-2. 인스타그램 게시물 업로드
+<ol>TWID(Today I Did) repository 생성</ol>
+<ol>인스타그램 게시물 업로드</ol>
 </details>
