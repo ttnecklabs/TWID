@@ -28,8 +28,9 @@
 <details>
 <summary>20240602(일)</summary>
 
-* __(대학원)__ 데이터사이언스 컴퓨팅 1 과제 
-  *  __내용__ : AVL Map Class 구현
+* __(대학원)__
+  * 데이터사이언스 컴퓨팅 1 과제 
+    *  __내용__ : AVL Map Class 구현
 </details>
 
 
